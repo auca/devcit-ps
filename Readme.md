@@ -13,6 +13,7 @@
 #### Записи занятий
 
 * <https://www.youtube.com/playlist?list=PLHcEzCb_lW6e43UMSP0FUlOknT3w0DQGH>
+* <https://drive.google.com/drive/folders/1PIu6n2UM8_05_pgz82olDWkrl_hIJ6Y0?usp=sharing>
 
 #### Трансляция занятия
 
