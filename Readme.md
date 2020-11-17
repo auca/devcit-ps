@@ -4,7 +4,7 @@
 
 Информация о курсе, информация о преподавателе, список тем курса
 
-* <https://github.com/auca/devcit-ps/blob/master/Course_Description_Ru_Summer_2019.pdf>
+* <https://github.com/auca/devcit-ps/blob/master/Course_Description_Ru_Fall_2020.pdf>
 
 ## Записи и вещание занятий
 
